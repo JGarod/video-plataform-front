@@ -1,0 +1,1 @@
+export const ubicacion = "http://localhost:3001/video/vervideo/1"
